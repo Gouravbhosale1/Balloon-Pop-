@@ -28,3 +28,8 @@ At the end of the game following things will be displayed on screen:
 2.	List of top five rankers with their name and scores.
 3.	Your rank 
 4.	Graph showing all players rank and pointing your rank position.
+
+	How To Run Code:
+1. Create a project in ide
+2. include all images and datasheet in folder
+3. run main.py file in ide
