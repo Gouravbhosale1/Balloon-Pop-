@@ -29,6 +29,15 @@ At the end of the game following things will be displayed on screen:
 3.	Your rank 
 4.	Graph showing all players rank and pointing your rank position.
 
+	Database/Leaderboard Description:
+
+  Database contains following things:
+  1.	Score of all players in sorted order (Highest First)
+  2.	Rank of all players with respect to scores
+  3.	Name of the players with respect to scores
+  4.	Date 
+
+
 	How To Run Code:
 1. Create a project in ide
 2. include all images and datasheet in folder
