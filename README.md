@@ -31,7 +31,7 @@ At the end of the game following things will be displayed on screen:
 
 	Database/Leaderboard Description:
 
-  Database contains following things:
+  Database gets automatically updated after end of the game and contains following things
   1.	Score of all players in sorted order (Highest First)
   2.	Rank of all players with respect to scores
   3.	Name of the players with respect to scores
